@@ -1,4 +1,4 @@
-# This is GUI for TIC-TAC-TOE game
+# This is GUI for TIC-TAC-TOE GAME
 import tkinter as tk
 from random import randrange
 from tkinter.constants import DISABLED, NORMAL
